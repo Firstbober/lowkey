@@ -4,6 +4,7 @@
 
 > [!WARNING]
 > **Status: Placeholder / Development MVP**
+> 
 > This repository serves as a placeholder while I finalize the initial MVP. The implementation is **not yet ready for use**. Even as I move toward a release, the current codebase and the underlying ideas contain known security vulnerabilities.
 > **Do not use Lowkey for sensitive communication.** This warning will be removed only when the implementation meets my standards for security and stability. ;)
 
