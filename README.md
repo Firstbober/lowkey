@@ -12,7 +12,7 @@
 
 ## Why?
 
-The catalyst for Lowkey was Discord's move toward enforcing ID checks via third-party providers—entities with a [concerning history of data breaches](https://proton.me/blog/discord-age-verfication-breach). While I view Matrix as a significant step forward for digital sovereignty, it still struggles to match the high-polish "feel" that makes Discord so popular.
+The catalyst for Lowkey was Discord's move toward enforcing ID checks via third-party providers with a [concerning history of data breaches](https://proton.me/blog/discord-age-verfication-breach). While I view Matrix as a significant step forward for digital sovereignty, it still struggles to match the high-polish "feel" that makes Discord so popular.
 
 Faced with this trade-off, several friends and I agreed that we could do better. We set out on a challenge: **who can build a superior messaging platform in just two weeks?**
 
@@ -28,4 +28,4 @@ Encrypted messaging shouldn't feel like a compromise. Lowkey is built to prove t
 * **Discord-Grade UX:** A polished, intuitive interface that rivals mainstream, non-encrypted alternatives.
 * **Massive Scalability:** Engineered to handle hundreds of thousands of concurrent users without the latency typical of E2EE systems.
 * **Uncompromised Features:** Supporting high-speed message search and media sharing without breaking the encryption boundary.
-* **Mobile-First Architecture:** Designed from the ground up for mobile efficiency—minimizing battery drain while maximizing responsiveness.
+* **Mobile-First Architecture:** Designed from the ground up for mobile efficiency while minimizing battery drain while maximizing responsiveness.
